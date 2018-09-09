@@ -1,1 +1,59 @@
 /*This is a Free Code Camp project - Tribute page - CSS file*/
+body{
+    background-color: antiquewhite;
+    display: auto;
+    margin: 20px;
+    padding: 10px;
+    text-align: justify;
+    border: 3px solid black;
+}
+h1{
+    text-align: center;
+    font-family: 'Noto Serif JP', sans-serif;
+    font-size: 50px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 10px grey;
+    margin-top: 80px;
+}
+#img-caption{
+    margin-top: 40px;
+    text-align: center;
+}
+#tribute-info{
+    font-family: 'Gamja Flower', cursive;
+    font-size: 25px;
+    margin-top: 40px;
+}
+h2{
+    font-family: 'Patua One', cursive;
+    font-size: 35px;
+}
+h3{
+    font-family: 'Boogaloo', cursive;
+    font-size: 30px;
+}
+p{
+    font-family: 'Poor Story', cursive;
+    font-size: 25px;
+}
+#tribute-link{
+    font-family: 'Inconsolata', monospace;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#footer-info{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-shadow: 5px 15px blue;
+}
